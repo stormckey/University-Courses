@@ -15,9 +15,9 @@
 - Physics Experiment II
   - An experiment to test the magnetic field in 3D
   - Inside the directory were the code to process data and make up data
-- 程算
-  - 程序设计与算法基础 翁恺 ，大学第一门计算机课，C
-  - 没有平时作业，只有最后一次大作业
-- 汇编
-  - 汇编语言 白洪欢 非常古老的16/32位x86汇编
-  - 只有几次作业的代码
+- Program Design and Algorithm
+  - by Weng kai ，my first computer class in college，in C
+  - only a project
+- Assembly Language
+  - by Bai Honghuan very old 16/32 bits x86 assembly language
+  - only source code for four assignments
