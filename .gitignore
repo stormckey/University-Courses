@@ -1,0 +1,13 @@
+*
+!*.fig
+!.gitignore
+!*.txt
+!*.mat
+!*.m
+!*.asm
+!*.c
+!*.md
+!*.bin
+!*.py
+!*.pdf
+!*/
