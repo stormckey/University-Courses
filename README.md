@@ -12,6 +12,9 @@
   - Missing semseter from MIT for computer skills needed for a CS student
   - Sources in their [home page](https://missing.csail.mit.edu/)
   - Only part of notes in side the directory
+- Physics Experiment II
+  - An experiment to test the magnetic field in 3D
+  - Inside the directory were the code to process data and make up data
 - 程算
   - 程序设计与算法基础 翁恺 ，大学第一门计算机课，C
   - 没有平时作业，只有最后一次大作业
