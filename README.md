@@ -1,4 +1,4 @@
- # Repository for the courses I took during undergraduate
+ # Repository of course code I wrote during undergraduate
 
 
 - CSAPP
@@ -8,10 +8,6 @@
 - ICS
   - Which is Introduction to Computer Systems by Yale Patt
   - Inside the directory were source code for Labs and Reports for them
-- Missing semester
-  - Missing semseter from MIT for computer skills needed for a CS student
-  - Sources in their [home page](https://missing.csail.mit.edu/)
-  - Only part of notes in side the directory
 - Physics Experiment II
   - An experiment to test the magnetic field in 3D
   - Inside the directory were the code to process data and make up data
