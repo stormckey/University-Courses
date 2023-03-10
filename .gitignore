@@ -10,4 +10,8 @@
 !*.bin
 !*.py
 !*.pdf
-!*/
+!CSAPP/
+!ICS/
+!Assembly/
+!Physics\ Experimental\ II/
+!Program\ Design\ and Algorithm
