@@ -17,3 +17,9 @@
 - Assembly Language
   - by Bai Honghuan very old 16/32 bits x86 assembly language
   - only source code for four assignments
+- Dip
+  - Digital image processing bt Mingli Song
+  - include six homework and their report ,together with some bmp files for test
+- AI
+  - most of the code was provided by teacher ,which was not writen by myself
+  - These two are the ones that I wrote most of the main part
